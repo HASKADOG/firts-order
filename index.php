@@ -44,6 +44,106 @@
 				</div>
 			</div>
 		</div>
+		<div class="first-page">
+			<div class="container">
+				<div class="row">
+					<div class="col-lg-9">
+						<div class="main-first-slider">
+							<img src="img/layer-2.png" alt="">
+						</div>
+					</div>
+					<div class="col-lg-3">
+						<div class="deals d-flex flex-column justify-content-between">
+							<div class="deal d-flex justify-content-between align-items-center ">
+							<div class="cmark"><img src="img/v.png" alt=""></div>
+							<div class="deal__content-wrapper">
+								<div class="deal__head">Сделка 235</div>
+								<div class="deal__desc">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do</div>
+							</div>
+							</div>
+							<div class="deal d-flex justify-content-between align-items-center ">
+							<div class="cmark"><img src="img/v.png" alt=""></div>
+							<div class="deal__content-wrapper">
+								<div class="deal__head">Сделка 235</div>
+								<div class="deal__desc">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do</div>
+							</div>
+							</div>
+							<div class="deal d-flex justify-content-between align-items-center ">
+							<div class="cmark"><img src="img/v.png" alt=""></div>
+							<div class="deal__content-wrapper">
+								<div class="deal__head">Сделка 235</div>
+								<div class="deal__desc">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do</div>
+							</div>
+							</div>
+							<div class="deal d-flex justify-content-between align-items-center ">
+							<div class="cmark"><img src="img/v.png" alt=""></div>
+							<div class="deal__content-wrapper">
+								<div class="deal__head">Сделка 235</div>
+								<div class="deal__desc">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do</div>
+							</div>
+							</div>
+							<div class="deal d-flex justify-content-between align-items-center ">
+							<div class="cmark"><img src="img/v.png" alt=""></div>
+							<div class="deal__content-wrapper">
+								<div class="deal__head">Сделка 235</div>
+								<div class="deal__desc">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do</div>
+							</div>
+							</div>
+						</div>
+
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="video">
+			<div class="container">
+				<div class="row justify-content-center">
+					<div class="col-8">
+						<iframe width="750" height="460" src="https://www.youtube.com/embed/vM1xYO1NlrA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="best-offer">
+			<div class="heading">
+				<div class="container">
+					<div class="row align-items-center">
+						<div class="col-lg-1"><div class="orange-reckt"></div></div>
+						<div class="col">Топ предложения</div>
+					</div>
+				</div>
+			</div>
+			<div class="deposite_persents">
+				<div class="container">
+					<div class="row">
+						<div class="col-lg-3">
+							<div class="persent-block">
+								<div class="persent"><span class="Mbold">1,8</span>%</div>
+								<div class="packet-type">STANDART</div>
+							</div>
+						</div>
+						<div class="col-lg-3">
+							<div class="persent-block">
+								<div class="persent"><span class="Mbold">2,5</span>%</div>
+								<div class="packet-type">BUISNESS</div>
+							</div>
+						</div>
+						<div class="col-lg-3">
+							<div class="persent-block">
+								<div class="persent"><span class="Mbold">3,0</span>%</div>
+								<div class="packet-type">ADVANCED</div>
+							</div>
+						</div>
+						<div class="col-lg-3">
+							<div class="persent-block">
+								<div class="persent"><span class="Mbold">3,7</span>%</div>
+								<div class="packet-type">INDIVIDUAL</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
 	</section>
 </body>
 </html>
