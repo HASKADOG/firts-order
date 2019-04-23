@@ -115,26 +115,26 @@
 			</div>
 			<div class="deposite_persents">
 				<div class="container">
-					<div class="row">
-						<div class="col-lg-3">
-							<div class="persent-block">
+					<div class="row align-items-center">
+						<div class="col-3 ">
+							<div class="persent-block persent-block-active">
 								<div class="persent"><span class="Mbold">1,8</span>%</div>
 								<div class="packet-type">STANDART</div>
 							</div>
 						</div>
-						<div class="col-lg-3">
+						<div class="col-3">
 							<div class="persent-block">
 								<div class="persent"><span class="Mbold">2,5</span>%</div>
 								<div class="packet-type">BUISNESS</div>
 							</div>
 						</div>
-						<div class="col-lg-3">
+						<div class="col-3">
 							<div class="persent-block">
 								<div class="persent"><span class="Mbold">3,0</span>%</div>
 								<div class="packet-type">ADVANCED</div>
 							</div>
 						</div>
-						<div class="col-lg-3">
+						<div class="col-3">
 							<div class="persent-block">
 								<div class="persent"><span class="Mbold">3,7</span>%</div>
 								<div class="packet-type">INDIVIDUAL</div>
@@ -142,6 +142,39 @@
 						</div>
 					</div>
 				</div>
+			</div>
+			<div class="deposite_calc">
+				<div class="container">
+				<div class="row">
+				<div class="col-lg-6">
+					<div class="deposite_info">
+						<div class="deposite_info_head d-flex justify-content-between">
+							<div class="dep_type">STANDART</div>
+							<div class="dep_persent"><span class="Mbold">1,8</span>% в сутки</div>
+						</div>
+						<div class="deposite_info_body d-flex justify-content-center">
+							<div class="dep_body_headers">
+								<div class="inner">Процент: </div>
+								<div class="inner">Срок: </div>
+								<div class="inner">Начисления: </div>
+								<div class="inner">Вывод: </div>
+								<div class="inner">Min сумма: </div>
+								<div class="inner">Max сумма: </div>
+							</div>
+							<div class="dep_body_ints">
+								<div class="dep_body_persent">1,8% в сутки</div>
+								<div class="dep_body_term">Бессрочно</div>
+								<div class="dep_body_accruals">Ежедневно</div>
+								<div class="dep_body_withdrawal">Автоматически</div>
+								<div class="dep_body_min_sum">10 USD | 100 RUB</div>
+								<div class="dep_body_max_sum">999 USD | 44 999 RUB</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="col-lg-6"></div>
+				</div>
+			</div>
 			</div>
 		</div>
 	</section>
